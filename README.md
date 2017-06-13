@@ -13,9 +13,15 @@ A standalone exe is in the work, until then make sure you download ALL the files
 Scripts are currently as follows:
 
 main.py     #main menu
+
 memory.py   #save/load funcitonality. Initial setup settings
+
 arr.py      #memory array setup
+
 static.py   #static movement pattern code
+
 move.py     #basic test movement settings
+
 config.txt  #load file for robot pin and port settings
+
 default.txt #load file for default robot robot pin and port settings
